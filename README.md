@@ -19,7 +19,7 @@ Bu uygulama; **Admin Paneli**, **Yazar Paneli** ve **Vitrin** olmak üzere üç 
 ### ✍️ Yazar Paneli
 - Profil bilgilerini düzenleme
 - İstenilen başlık altında yazı (entry) oluşturma
-- Kendi yazılarını listeleme ve güncelleme
+- Kendi yazılarını listeleme
 - Mesajlaşma işlemleri
 
 ### 🌐 Vitrin
